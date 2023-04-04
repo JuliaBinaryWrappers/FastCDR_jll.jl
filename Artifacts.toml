@@ -1,0 +1,288 @@
+[[FastCDR]]
+arch = "aarch64"
+git-tree-sha1 = "811f8afe7881cd314a0e4f3916a5893d7624f323"
+os = "macos"
+
+    [[FastCDR.download]]
+    sha256 = "1e733a6deed5c07db54e466f216cfea42d5cbe7e21a526ba9a23a71ad1ea23d3"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.aarch64-apple-darwin.tar.gz"
+[[FastCDR]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8fdcabc0a736f53f1f6cc69cc6ccfca293c94a09"
+libc = "glibc"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "e6a7a4590f35e0a90a5379512ede7037fd0d6e0b622870bd4fd87f7f1e11100c"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.aarch64-linux-gnu-cxx03.tar.gz"
+[[FastCDR]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6489ee436faf0d49c8331c6ca9459f5d7e8aeff7"
+libc = "glibc"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "3a255436079c95a8293a037a10122abf207be9294783cd4253922c46db833c13"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.aarch64-linux-gnu-cxx11.tar.gz"
+[[FastCDR]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ca818e020ce74e71877dfa3b39da77e2e018709e"
+libc = "musl"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "9627df9da63f499d86b35c71b4cee9302821dcbfa8ff34745136a322611d1c1e"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.aarch64-linux-musl-cxx03.tar.gz"
+[[FastCDR]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "094e74c19be964036c420c26aa0d05adeb93cdb2"
+libc = "musl"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "554e8c6921e8ce221e4dee696af40fe6c8fa873b9e819c62eea63746ea175710"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.aarch64-linux-musl-cxx11.tar.gz"
+[[FastCDR]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e077ca2b79b8a9493ce29ca33f34f349fa9c3ce6"
+libc = "glibc"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "27b657afbd53df92a6e240083d1910ee70cb41dfc7881291b3bdb84694e4c4ae"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[FastCDR]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "370a4a3d431656f8dced7bd46a4ca3d6a800c987"
+libc = "glibc"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "60296189d384f83b0546db1112d6278c872c2b05cba841f8b3b4ad2119a31d6f"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[FastCDR]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6a298399bced67ce2fe4f1b0698b9542547a7b84"
+libc = "musl"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "3b2de654c0859666e2c6b01f3b2427b26c47ab8bbe944542ebfdb9f38d93cfac"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[FastCDR]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e9a594c2e96fa434a9e97d53267ade98198af822"
+libc = "musl"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "698178c105cebf8097bc9b9d0759b57f3a16eb21b162f2fdefaf8c9a71accfca"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[FastCDR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b2c23fe2103e1fa212ea10879172fa3baa3c877f"
+libc = "glibc"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "c4a3f7e8ee66f7c5a15db1c101a6d8f32c5f6cbe3900f7a39ca8f2bf7ec3ff97"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[FastCDR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4c09195202edf8f4ac47232b19d97e9a9f4c438e"
+libc = "glibc"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "1da2c071357b2cb107da9c7c81a24e426d151ea9c88f3f2d84870e350e27b042"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[FastCDR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bfc2b144c39dc2ee9566c9dc7caacbea927f48e3"
+libc = "musl"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "3ccf44f86c55e3281e4d8f290bbcb5e3977054a2a5c1dd3306b800ad638ad383"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[FastCDR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6761541a26c39617d5d03f76817e2a29185f403f"
+libc = "musl"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "b6d7cb0d6ccee1c7c16aabdf2cd3c29a679867d5471c3ce5c4f6515d9a6ffcee"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[FastCDR]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "893cbc8371ffd758d11082c0ce5d7f520fd72690"
+libc = "glibc"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "8343b5522cdfa91bebd7ec5e093b97f71804c72fb0ca954e073cc3c7a1f766df"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.i686-linux-gnu-cxx03.tar.gz"
+[[FastCDR]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b55249c8450f7c4a32b5e252699955710471f811"
+libc = "glibc"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "08dd88c1f7847d700be66e64c6fd5262dd9c334aac2ea75c5db1761188694173"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.i686-linux-gnu-cxx11.tar.gz"
+[[FastCDR]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d9df5d3b3dd653c29c98e69a51788611e37ff000"
+libc = "musl"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "b3749c06c51bc0dc07be2fe88722b50669ca020a90bdb6e69d498efa4f68f294"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.i686-linux-musl-cxx03.tar.gz"
+[[FastCDR]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7720da0118f42b8c9a6a3e8e9403bcdb2c58655c"
+libc = "musl"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "ede1390de0f299532d254ad6eeaac3a230ef9ad148dd825df18755ee18e48beb"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.i686-linux-musl-cxx11.tar.gz"
+[[FastCDR]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3d7da6f12b5027098069ac9c8cce13b8faa97b36"
+os = "windows"
+
+    [[FastCDR.download]]
+    sha256 = "2baacaf2cedf53c6874660bbaf76acab3889511d3054cf631075bb9e130b33ee"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.i686-w64-mingw32-cxx03.tar.gz"
+[[FastCDR]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9cf98ab6af82e695bcc3329e7af97f0180995755"
+os = "windows"
+
+    [[FastCDR.download]]
+    sha256 = "131c0769b38c7253793f43e74abaa34dcbed917f666899a3291b3c2ba4a1790d"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.i686-w64-mingw32-cxx11.tar.gz"
+[[FastCDR]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "002b19699eee5ce2a3da99f8f3fc0e73b647f85c"
+libc = "glibc"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "5815578b50bebd6b0c80b29192e36ec94bf810b4a20991d1f6c32fc2534924c0"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[FastCDR]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "89b6b03a0f73a6c627c77349bbbe77d56b7d7bb0"
+libc = "glibc"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "70d2162d8e67aeeba5c4fea9736b4f91908ca0884264a54c302037c3e432ea9d"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[FastCDR]]
+arch = "x86_64"
+git-tree-sha1 = "3e27f2745652f340592f6b35b78fbea515ee462d"
+os = "macos"
+
+    [[FastCDR.download]]
+    sha256 = "95bf2584508494ba0a8e61e4110d7b5b500bc2579be2518471b5a3dd95b80f43"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.x86_64-apple-darwin.tar.gz"
+[[FastCDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "811a2a86dbba2f711220f13459eb9ae836c8ba09"
+libc = "glibc"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "03b213ae4bc91877bff3cbde12c9dfabad6911d268bb80845c1100425b9f72d1"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.x86_64-linux-gnu-cxx03.tar.gz"
+[[FastCDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "27aa72d254afcf20ee9787b383f50c6bd23b5e9c"
+libc = "glibc"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "3b6e9e57e1bf12fd9331a67dff44c80800fc75c6c13382c1d469e7344e907a8d"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.x86_64-linux-gnu-cxx11.tar.gz"
+[[FastCDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9908739177fc95dc71c53e3837e6feeeb9970604"
+libc = "musl"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "a317120fb901730c89ac2f994052420600e953f9b41f19074abe93068cfc0545"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.x86_64-linux-musl-cxx03.tar.gz"
+[[FastCDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1abf6cafb751653c66824009c8889ceaba3fbcea"
+libc = "musl"
+os = "linux"
+
+    [[FastCDR.download]]
+    sha256 = "33d07015c86d819a895bd883eff25365f84e17db1e18995fa712d66537aff1a8"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.x86_64-linux-musl-cxx11.tar.gz"
+[[FastCDR]]
+arch = "x86_64"
+git-tree-sha1 = "03b38f225feeea1fab3bc85c7a6503bb5691ba42"
+os = "freebsd"
+
+    [[FastCDR.download]]
+    sha256 = "bc488bd34c3ddf6d2197982b4852bd0aefce18ceb07934a450f413cd478de13a"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.x86_64-unknown-freebsd.tar.gz"
+[[FastCDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a8acb84bc18590e2d4fee3d1f1f67422c4eab02a"
+os = "windows"
+
+    [[FastCDR.download]]
+    sha256 = "1b58a739e8ea5cdbda54b4383bc033f5eb69a4a7b18f26ec8a17d664f18112a9"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.x86_64-w64-mingw32-cxx03.tar.gz"
+[[FastCDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a746f328c10904f34e9498139928d3f09768bdd2"
+os = "windows"
+
+    [[FastCDR.download]]
+    sha256 = "893df30b8df4344e3e094bd7f4a0a472805a10ab34d18bea7959c6f206c90165"
+    url = "https://github.com/JuliaBinaryWrappers/FastCDR_jll.jl/releases/download/FastCDR-v1.0.27+0/FastCDR.v1.0.27.x86_64-w64-mingw32-cxx11.tar.gz"
